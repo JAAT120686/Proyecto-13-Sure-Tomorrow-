@@ -1,12 +1,14 @@
-# Proyecto P13
+# Proyecto P13: Sure Tomorrow
 
-Descripción breve del proyecto P13 de ciencia de datos.
+Análisis de datos de seguros médicos para identificar factores que afectan el costo de las pólizas.
 
 ## Objetivo
-Explicar el objetivo principal del análisis realizado en este proyecto.
+Desarrollar modelos para estimar el costo de seguros y segmentar clientes.
 
 ## Estructura
-- Notebooks y archivos de datos relacionados.
+- Notebooks de análisis
+- Archivos de datos de clientes
+- Reportes de segmentación
 
 ## Cómo ejecutar
 Abre el notebook principal y sigue las instrucciones.
